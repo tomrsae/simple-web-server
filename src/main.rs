@@ -1,5 +1,3 @@
-use futures::executor::block_on;
-
 mod server;
 
 fn main() {
